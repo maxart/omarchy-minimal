@@ -40,3 +40,7 @@ Select another theme, then run:
 ## More
 
 Explore [Simple Workspaces](https://github.com/maxart/simple-workspaces), another project of mine.
+
+## License
+
+[MIT](LICENSE).
