@@ -23,6 +23,12 @@ Choose **Minimal** in the theme picker, or run:
 omarchy theme set minimal
 ```
 
+## Unlock
+
+A grey Omarchy logo on pure black. Select **Minimal** under **Appearance → Unlock**.
+
+![Minimal unlock preview](preview-unlock.png)
+
 ## Uninstall
 
 Select another theme, then run:
