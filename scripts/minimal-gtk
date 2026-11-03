@@ -1,0 +1,4 @@
+#!/bin/bash
+# Minimal GTK theme hook
+set -euo pipefail
+python3 "$HOME/.config/omarchy/themes/minimal/scripts/update-gtk.py" "${1:-}"
